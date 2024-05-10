@@ -1,0 +1,11 @@
+{
+  "name": "cli-withdrawal",
+  "dependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
